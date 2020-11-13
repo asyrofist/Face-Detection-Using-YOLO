@@ -1,0 +1,8 @@
+0. Download semua file, letakkan di google drive Anda
+1. Jangan rubah nama file; images.zip, dll
+2. Jangan ganti nama folder 'yolov3'
+3. Run 'YoloV3_training.ipyb' dengan Google Colab, pastikan setting sudah menggunakan GPU / GPU enable
+4. Run all, tunggu proses training selesai
+5. Setelah selesai, lalu download 'yolov3_training_last.weights' dan letakkan di lokal direktori komputer yg sama dengan 'YoloV3_testing.py'
+6. Setting path direktori dari weight yg telah didownload sebelumnya dan path direktori dari image yang ingin dideteksi di dalam file 'YoloV3_testing.py'
+7. Run file 'YoloV3_testing.py'
