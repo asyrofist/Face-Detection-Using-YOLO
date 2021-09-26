@@ -1,4 +1,5 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5528403.svg)](https://doi.org/10.5281/zenodo.5528403)
+![image](https://visitor-badge.laobi.icu/badge?page_id=asyrofist/Face_Detection_Using_YOLO)
 
 # Face-Detection-Using-YOLO
 How to make Face Detection using YOLO algorithm
