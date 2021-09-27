@@ -3,6 +3,8 @@
 ![PyPI - Python Version](https://img.shields.io/badge/python-3.7.0-blue.svg)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
 [![Build Status](https://app.travis-ci.com/asyrofist/Face-Detection-Using-YOLO.svg?branch=main)](https://app.travis-ci.com/asyrofist/Face-Detection-Using-YOLO)
+[![Paper](http://img.shields.io/badge/Paper-PDF-red.svg)](https://ieeexplore.ieee.org/document/9251905)
+[![Slide](http://img.shields.io/badge/Slides-PDF-orange.svg)](https://github.com/asyrofist/Face-Detection-Using-YOLO/blob/main/1570653028.pdf) 
 
 # Face-Detection-Using-YOLO
 How to make Face Detection using YOLO algorithm
