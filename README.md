@@ -2,6 +2,7 @@
 ![image](https://visitor-badge.laobi.icu/badge?page_id=asyrofist/Face_Detection_Using_YOLO)
 ![PyPI - Python Version](https://img.shields.io/badge/python-3.7.0-blue.svg)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
+[![Build Status](https://app.travis-ci.com/asyrofist/Face-Detection-Using-YOLO.svg?branch=main)](https://app.travis-ci.com/asyrofist/Face-Detection-Using-YOLO)
 
 # Face-Detection-Using-YOLO
 How to make Face Detection using YOLO algorithm
