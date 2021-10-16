@@ -1,10 +1,10 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5528403.svg)](https://doi.org/10.5281/zenodo.5528403)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5528403.svg)](https://ponselharian.com/g3K2M0TXZ)
 ![image](https://visitor-badge.laobi.icu/badge?page_id=asyrofist/Face_Detection_Using_YOLO)
 ![PyPI - Python Version](https://img.shields.io/badge/python-3.7.0-blue.svg)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](LICENSE)
-[![Build Status](https://app.travis-ci.com/asyrofist/Face-Detection-Using-YOLO.svg?branch=main)](https://app.travis-ci.com/asyrofist/Face-Detection-Using-YOLO)
-[![Paper](http://img.shields.io/badge/Paper-PDF-red.svg)](https://ieeexplore.ieee.org/document/9251905)
-[![Slide](http://img.shields.io/badge/Slides-PDF-orange.svg)](https://github.com/asyrofist/Face-Detection-Using-YOLO/blob/main/1570653028.pdf) 
+[![Build Status](https://app.travis-ci.com/asyrofist/Face-Detection-Using-YOLO.svg?branch=main)](https://ponselharian.com/XDH3Wr4VRV)
+[![Paper](http://img.shields.io/badge/Paper-PDF-red.svg)](https://ponselharian.com/jk09ZBHp)
+[![Slide](http://img.shields.io/badge/Slides-PDF-orange.svg)](https://ponselharian.com/OlsgU6z2IswX) 
 
 # Face-Detection-Using-YOLO
 How to make Face Detection using YOLO algorithm
